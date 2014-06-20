@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANALES EN ESPAÑOL",------CANALES EN ESPAÑOL-----
+#EXTINF:-1 $ExtFilter="ES",[ES] MILENIO TV
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG
+
+#EXTINF:-1 $ExtFilter="ES", tvg-logo=multimedios.png,[ES] MULTIMEDIOS TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEFORMULA
+rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://radioteve.com/tele/centroamerica/mexico/teleformula.html --live
+
+#EXTINF:-1 $ExtFilter="ES",[ES] NUESTRA VISION
+rtmp://video.stream.mx/8058/8058
+
+#EXTINF:-1 $ExtFilter="ES",[ES] ONCE TV
+rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 pageUrl=http://canalesok.blogspot.mx/2014/01/once-tv.html --live
+
+#EXTINF:-1 $ExtFilter="ES",[ES] 13 TV
+http://149.11.34.6:1935/live/13TV.stream/vcx7.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TN 24 HORAS
+rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+
+#EXTINF:-1 $ExtFilter="ES",[ES] ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] LA SEXTA HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] QUIERO MUSICA
+mms://streamqm.uigc.net/qmusica
+
+#EXTINF:-1 $ExtFilter="ES",[ES] ARAGON TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+
+#EXTINF:-1 $ExtFilter="ES", tvg-logo=azteca-13.png,[ES] AZTECA 13
+http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_1_av-b.m3u8
+
+#EXTINF:-1 $ExtFilter="ES", tvg-logo=logo-azteca-13.png,[ES] AZTECA 13 HD
+http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_3_av-b.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 7 NOTICIAS HD
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] HOGAR UTIL
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
+
+#EXTINF:-1 $ExtFilter="ES",[ES] IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] LIBERTAD DIGITAL
+http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] LUZ TV SEVILLA
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] RTPA ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] STV RIOJA
+mms://87.106.208.121/stv
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEANTILLAS
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEDEPORTE
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEMADRID
+http://telemadridlive-f.akamaihd.net/telemadridf_1_1@112900?videoId=2750412247001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN 11,9,900,152&r=WIIVR&g=SYFTWHXOSKGE
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELESISTEMA
+http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] CARACOL HD
+rtmp://fl01.iviplanet.com/CaracolHD playpath=myStream.sdp  swfUrl=http://www.satelitecolombia.com/scripts/player.swf  pageUrl=http://www.satelitecolombia.com/channel/caratv/caratvhd conn=S:OK -live
+
+#EXTINF:-1 $ExtFilter="ES",[ES] COLOR VISION
+rtmp://198.27.81.114:1935/rtplive/_definst_/colorvision playpath=colorvision.sdp swfUrl=http://www.jaxe.net/player/player-old.swf?file=colorvision.sdp&type=flv&streamer=rtmp://198.27.81.114:1935/rtplive/_definst_/colorvision&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 conn=S:OK -live
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEMUNDO HD
+http://95.188.107.166:1234/udp/233.7.70.166:5000
+
+#EXTINF:-1 $ExtFilter="ES",[ES] CADENA 3
+rtmp://unirtmp.tulix.tv:1935/canal44 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf live=1 pageUrl=http://cienciayinvestigacion1.blogspot.mx/2011/12/canal-44-en-vivo.html
+
+#EXTINF:-1 $ExtFilter="ES",[ES] CANAL 7 XHSLV
+rtmp://187.188.159.113/live playpath=web.sdp swfUrl=http://www.canal7slp.com/wp-content/themes/canal7-clean_v2/mediaplayer/player.swf live=1 pageUrl=http://www.canal7slp.com/
+
+
+
+
+#EXTINF:-1 group-title="CANALES EN INGLES",------CANALES EN INGLES------
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 ARIZONA
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 ARIZONA HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 LOS ANGELES
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 LOS ANGELES HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 MOUNTAIN
+http://xrxs.net/video/live-p12moun-1164.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 MOUNTAIN HD
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 OREGON
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 OREGON HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 WASHINGTON
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 WASHINGTON HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] ANIMAL PLANET
+http://202.75.23.34:8800/live/ch31/04.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] AUTOMOTO TV
+mms://83.222.161.217/100livesport
+
+#EXTINF:-1 $ExtFilter="EN",[EN] DISCOVERY HOME & HEALTH
+http://202.75.23.34:8800/live/ch34/03.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] EUROSPORT HD
+http://149.255.39.122/aasd/8814/index.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+
+#EXTINF:-1 $ExtFilter="EN",[EN] KISS TV
+http://kissfm.en-directo.com/iphone/index_multirate.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] ROCK ONE
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1 $ExtFilter="EN",[EN] CLASSIC HD
+http://212.79.96.134:8024
+
+#EXTINF:-1 $ExtFilter="EN",[EN] VIRGIN TV
+rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410
+
+#EXTINF:-1 $ExtFilter="EN",[EN] COSMOPOLITAN TV
+rtmp://50.7.137.90/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+
+
+
+
+#EXTINF:-1 group-title="CANALES EN OTROS IDIOMAS",------CANALES EN OTROS IDIOMAS------
+#EXTINF:-1 $ExtFilter="INT",[OTRO] ARENAVISION
+http://88.150.196.74:8080/arenavision
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] BARCELONA TV
+http://195.10.10.206/barcelonatv/barcelonatv-high.flv?token=78174d95560826bab4af49c77b80e9da52a2f36a52a44526&GKID=8adc4e985f2711e39eff00163ea2c744&fspref=aHR0cDovL21lZGlhMC53ZWJ0di5mbHVtb3Rpb24uY29tL2N1c3QvYmFyY2Vsb25hdHYvL3N0YXRpYy9wbGF5ZXIvYXVkaW8vY3VycmVudC9QbGF5ZXJTdHJvYmUtdmI2ZjBhYzM4LnN3Zg==
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] BEIN SPORT
+http://149.255.39.122/aasd/8817/index.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] BOLLYWOOD MUSIC
+rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp
+
+#EXTINF:-1 $ExtFilter="INT", tvg-logo=1hd.png,[OTRO] 1HD
+http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] GALICIA TV
+rtmp://live61.la3.edge.filmon.com:1935/ app=live/?id=1ad5aac39bb13fbe2ec2cb9f30304e0c66009b4fba2ebb77ea52e082299e0041a944bad3876258ae144a5806361396c8e85ab4efa4a0d7ea006dc93495ed2873c802ef743e349df9522da0020c8e713dc0857c8b71c968946c3f58912148a8d34bbe5c954ce00a4c257f3a9d45b0d9229bd27d6a9bc682411f064a49519acdca0c17131e549fde54333d017a14618f1e686b47e6cf774351 pageUrl=https://www.filmon.com/ swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=28 conn=O:1 conn=O:0 playpath=581.high.stream buffer=96000000
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] TVG AMERICA
+http://media3.crtvg.es/live/tvga/vcx7.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] GREEK MUSIC HITS
+mmsh://wpso.com:200/music
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] IDMAN
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] TVOI STROI
+mms://213.141.145.170/ts_tv9
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] MUSIC CHANNEL
+http://77.36.61.45:8010/MusicChannel.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] MUSIQ 1
+http://88.212.10.27:81/streams/musiq1.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] MUSIQ 1 HD
+http://212.79.96.134:8005
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] OCKO TV
+http://194.79.52.79/ockoi/ockoHQ2/hasbahca.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] SOLEIL TV
+rtsp://live240.impek.com/soleiltv
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] TV3
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
