@@ -97,6 +97,21 @@ rtmp://187.188.159.113/live playpath=web.sdp swfUrl=http://www.canal7slp.com/wp-
 
 
 #EXTINF:-1 group-title="CANALES EN INGLES",------CANALES EN INGLES------
+#EXTINF:-1 $ExtFilter="EN",[EN] FASHIONBOX HD
+http://stream1.zoovision.com//livespi/_definst_/mp4:fashionbox_source/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] DOCUBOX HD
+http://stream1.zoovision.com//livespi/_definst_/mp4:docubox_source/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] FILMBOX ARTHOUSE
+http://stream1.zoovision.com//livespi/_definst_/mp4:arthouse_source/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] FAST & FUN BOX
+http://stream1.zoovision.com//livespi/_definst_/mp4:fastnfun_source/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] FIGHTBOX HD
+http://stream1.zoovision.com//livespi/_definst_/mp4:fightbox_source/playlist.m3u8
+
 #EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 ARIZONA
 http://xrxs.net/video/live-p12ariz-1164.m3u8
 
@@ -236,3 +251,9 @@ http://extv.dyndns.tv/expoit/expoit/35.ch
 
 #EXTINF:-1 $ExtFilter="XXX",[XXX] BRAZZERS TV EUROPE
 http://extv.dyndns.tv/expoit/expoit/36.ch
+
+#EXTINF:-1 $ExtFilter="XXX",[XXX] EROX HD
+http://stream1.zoovision.com//livespi/erox/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="XXX",[XXX] EROXXX HD
+http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8
