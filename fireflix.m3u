@@ -208,3 +208,6 @@ rtsp://live240.impek.com/soleiltv
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] TV3
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] SPORT HD
+http://extv.dyndns.tv/expoit/expoit/33.ch?SPORT.HD.www.vlc.eu.pn
