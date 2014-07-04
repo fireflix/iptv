@@ -3,7 +3,7 @@
 #EXTINF:-1 $ExtFilter="ES",[ES] MILENIO TV
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG
 
-#EXTINF:-1 $ExtFilter="ES", tvg-logo=NULL-multimedios.png,[ES] MULTIMEDIOS TV
+#EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60
 
 #EXTINF:-1 $ExtFilter="ES",[ES] TELEFORMULA
@@ -33,10 +33,10 @@ mms://streamqm.uigc.net/qmusica
 #EXTINF:-1 $ExtFilter="ES",[ES] ARAGON TV
 http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
 
-#EXTINF:-1 $ExtFilter="ES", tvg-logo=NULL-azteca-13.png,[ES] AZTECA 13
+#EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 13
 http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_1_av-b.m3u8
 
-#EXTINF:-1 $ExtFilter="ES", tvg-logo=NULL-logo-azteca-13.png,[ES] AZTECA 13 HD
+#EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 13 HD
 http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_3_av-b.m3u8
 
 #EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 7 NOTICIAS HD
@@ -173,7 +173,7 @@ http://149.255.39.122/aasd/8817/index.m3u8
 #EXTINF:-1 $ExtFilter="INT",[OTRO] BOLLYWOOD MUSIC
 rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp
 
-#EXTINF:-1 $ExtFilter="INT", tvg-logo=NULL-1hd.png,[OTRO] 1HD
+#EXTINF:-1 $ExtFilter="INT",[OTRO] 1HD
 http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] GALICIA TV
@@ -210,4 +210,29 @@ rtsp://live240.impek.com/soleiltv
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] SPORT HD
-http://extv.dyndns.tv/expoit/expoit/33.ch?SPORT.HD.www.vlc.eu.pn
+http://extv.dyndns.tv/expoit/expoit/33.ch
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] AXN
+http://extv.dyndns.tv/expoit/expoit/34.ch
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] F+ HD
+http://extv.dyndns.tv/expoit/expoit/56.ch
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] HBO HD
+http://extv.dyndns.tv/expoit/expoit/37.ch
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] 6HT HD
+http://extv.dyndns.tv/expoit/expoit/39.ch
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] FEN TV
+http://extv.dyndns.tv/expoit/expoit/45.ch
+
+
+
+
+#EXTINF:-1 group-title="CANALES XXX",------CANALES XXX------
+#EXTINF:-1 $ExtFilter="XXX",[XXX] FRENCH LOVER TV
+http://extv.dyndns.tv/expoit/expoit/35.ch
+
+#EXTINF:-1 $ExtFilter="XXX",[XXX] BRAZZERS TV EUROPE
+http://extv.dyndns.tv/expoit/expoit/36.ch
