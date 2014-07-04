@@ -221,7 +221,7 @@ http://extv.dyndns.tv/expoit/expoit/56.ch
 #EXTINF:-1 $ExtFilter="INT",[OTRO] HBO HD
 http://extv.dyndns.tv/expoit/expoit/37.ch
 
-#EXTINF:-1 $ExtFilter="INT",[OTRO] 6HT HD
+#EXTINF:-1 $ExtFilter="INT",[OTRO] BNT HD
 http://extv.dyndns.tv/expoit/expoit/39.ch
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] FEN TV
