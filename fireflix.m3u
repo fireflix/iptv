@@ -19,7 +19,10 @@ http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=12667363500
 rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo12 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemundo12 timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] CLASICO TV
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chdocfr/2012/08/23/6c09e157-aebe-467e-8244-46105020f22d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.miscanalesdetv.net/2013/01/clasico-tv.html live=true timeout=10
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chdocfr/2012/08/23/6c09e157-aebe-467e-8244-46105020f22d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.miscanalesdetv.net/2013/01/clasico-tv.html timeout=10
+
+#EXTINF:-1 $ExtFilter="ES",[ES] UNIVISION
+rtmp://50.7.28.162/app playpath=16521?MTQwNjY2MTUzMztmMWI0NGRhMTIwNTQ5NjdkNGIwY2U0YWM1Mzg1YTM1Mg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a51324f54637a4e6a4d325a6a63324e6a55334d6a63354d7a453d/5f7a8e2892b0 timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] TELEFORMULA
 rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://radioteve.com/tele/centroamerica/mexico/teleformula.html --live timeout=10
