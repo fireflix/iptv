@@ -3,8 +3,14 @@
 #EXTINF:-1 $ExtFilter="ES",[ES] MILENIO TV
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG
 
+#EXTINF:-1 $ExtFilter="ES",[ES] MILENIO TV (2)
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001
+
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60
+
+#EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV (2)
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732
 
 #EXTINF:-1 $ExtFilter="ES",[ES] TELEFORMULA
 rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://radioteve.com/tele/centroamerica/mexico/teleformula.html --live
