@@ -12,6 +12,9 @@ http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV (2)
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732
 
+#EXTINF:-1 $ExtFilter="ES",[ES] PRUEBA TIMEOUT
+rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo12 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemundo12 live=true timeout=10
+
 #EXTINF:-1 $ExtFilter="ES",[ES] TELEFORMULA
 rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://radioteve.com/tele/centroamerica/mexico/teleformula.html --live
 
