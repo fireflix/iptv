@@ -12,6 +12,9 @@ http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV (2)
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732 timeout=10
 
+#EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV (3)
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+
 #EXTINF:-1 $ExtFilter="ES",[ES] PRUEBA TIMEOUT
 rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo12 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemundo12 timeout=10
 
@@ -95,6 +98,9 @@ rtmp://fl01.iviplanet.com/CaracolHD playpath=myStream.sdp  swfUrl=http://www.sat
 
 #EXTINF:-1 $ExtFilter="ES",[ES] COLOR VISION
 rtmp://198.27.81.114:1935/rtplive/_definst_/colorvision playpath=colorvision.sdp swfUrl=http://www.jaxe.net/player/player-old.swf?file=colorvision.sdp&type=flv&streamer=rtmp://198.27.81.114:1935/rtplive/_definst_/colorvision&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 conn=S:OK -live timeout=10
+
+#EXTINF:-1 $ExtFilter="ES",[ES] COLOR VISION (2)
+rtmp://192.99.148.27:1935/rtplive/_definst_/colorvision playpath=colorvision.sdp swfUrl=http://www.colorvision.do/flvplayer.swf pageUrl=http://www.colorvision.do/Canal9.htm live=true timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] TELEMUNDO HD
 http://95.188.107.166:1234/udp/233.7.70.166:5000 timeout=10
