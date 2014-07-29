@@ -51,6 +51,9 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 $ExtFilter="ES",[ES] HOGAR UTIL
 http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
 
+#EXTINF:-1 $ExtFilter="ES",[ES] HOGAR UTIL (2)
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001
+
 #EXTINF:-1 $ExtFilter="ES",[ES] IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
