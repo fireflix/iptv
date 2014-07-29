@@ -13,7 +13,7 @@ http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732 timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV (3)
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId= live=true timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] PRUEBA TIMEOUT
 rtmp://edge5.video.vaughnsoft.net:443/ app=live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo12 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/telemundo12 timeout=10
