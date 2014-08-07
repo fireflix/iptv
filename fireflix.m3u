@@ -256,19 +256,3 @@ http://extv.dyndns.tv/expoit/expoit/39.ch timeout=10
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] FEN TV
 http://extv.dyndns.tv/expoit/expoit/45.ch timeout=10
-
-
-
-
-#EXTINF:-1 group-title="CANALES XXX",------CANALES XXX------
-#EXTINF:-1 $ExtFilter="XXX",[XXX] FRENCH LOVER TV
-http://extv.dyndns.tv/expoit/expoit/35.ch timeout=10
-
-#EXTINF:-1 $ExtFilter="XXX",[XXX] BRAZZERS TV EUROPE
-http://extv.dyndns.tv/expoit/expoit/36.ch timeout=10
-
-#EXTINF:-1 $ExtFilter="XXX",[XXX] EROX HD
-http://stream1.zoovision.com//livespi/erox/playlist.m3u8 timeout=10
-
-#EXTINF:-1 $ExtFilter="XXX",[XXX] EROXXX HD
-http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8 timeout=10
