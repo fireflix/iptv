@@ -4,7 +4,7 @@
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60 timeout=10
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60|User-Agent=chrome timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] CLASICO TV
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chdocfr/2012/08/23/6c09e157-aebe-467e-8244-46105020f22d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.miscanalesdetv.net/2013/01/clasico-tv.html timeout=10
