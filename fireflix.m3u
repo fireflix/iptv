@@ -15,14 +15,14 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 #EXTINF:-1 $ExtFilter="ES",[ES] ARAGON TV
 http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
 
-#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 1
-http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-
-#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
 #EXTINF:-1 $ExtFilter="ES",[ES] IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELEANTILLAS
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES",[ES] TELESISTEMA
+http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="ES",[ES] CLASICO TV
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chdocfr/2012/08/23/6c09e157-aebe-467e-8244-46105020f22d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.miscanalesdetv.net/2013/01/clasico-tv.html timeout=10
@@ -54,17 +54,17 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 $ExtFilter="ES",[ES] STV RIOJA
 mms://87.106.208.121/stv
 
-#EXTINF:-1 $ExtFilter="ES",[ES] TELEANTILLAS
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-
-#EXTINF:-1 $ExtFilter="ES",[ES] TELESISTEMA
-http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
-
 #EXTINF:-1 $ExtFilter="ES",[ES] COLOR VISION
 rtmp://192.99.148.27:1935/rtplive/_definst_/colorvision playpath=colorvision.sdp swfUrl=http://www.colorvision.do/flvplayer.swf pageUrl=http://www.colorvision.do/Canal9.htm live=true timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] CANAL 7 XHSLV
 rtmp://187.188.159.113/live playpath=web.sdp swfUrl=http://www.canal7slp.com/wp-content/themes/canal7-clean_v2/mediaplayer/player.swf live=1 pageUrl=http://www.canal7slp.com/ timeout=10
+
+#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8|User-Agent=iPhone
+
+#EXTINF:-1 $ExtFilter="ES",[ES] RTVE 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8|User-Agent=iPhone
 
 #EXTINF:-1 $ExtFilter="ES",[ES] HOGAR UTIL
 http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
@@ -88,6 +88,9 @@ mms://83.222.161.217/100livesport
 #EXTINF:-1 $ExtFilter="EN",[EN] EUROSPORT HD
 http://149.255.39.122/aasd/8814/index.m3u8
 
+#EXTINF:-1 $ExtFilter="EN",[EN] CAPITAL TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
 #EXTINF:-1 $ExtFilter="EN",[EN] IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 
@@ -102,9 +105,6 @@ http://212.79.96.134:8024
 
 #EXTINF:-1 $ExtFilter="EN",[EN] VIRGIN TV
 rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410 timeout=10
-
-#EXTINF:-1 $ExtFilter="EN",[EN] CAPITAL TV
-rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
 
 #EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 ARIZONA
 http://xrxs.net/video/live-p12ariz-1164.m3u8
@@ -136,25 +136,19 @@ http://xrxs.net/video/live-p12wash-1164.m3u8
 #EXTINF:-1 $ExtFilter="EN",[EN] PAC-12 WASHINGTON HD
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1 $ExtFilter="EN",[EN] NASA TV
-rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true timeout=10
-
 #EXTINF:-1 $ExtFilter="EN",[EN] NASA TV HD
 rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=10
 
 
 #EXTINF:-1 group-title="CANALES EN OTROS IDIOMAS",------CANALES EN OTROS IDIOMAS------
-#EXTINF:-1 $ExtFilter="INT",[INT] ARENAVISION
-http://88.150.196.74:8080/arenavision
+#EXTINF:-1 $ExtFilter="INT",[INT] 1HD
+http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[INT] BEIN SPORT
 http://149.255.39.122/aasd/8817/index.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[INT] BOLLYWOOD MUSIC
 rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp
-
-#EXTINF:-1 $ExtFilter="INT",[INT] 1HD
-http://109.239.142.62:1935/live/hlsstream/vcx73.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[INT] GALICIA TV
 rtmp://live61.la3.edge.filmon.com:1935/ app=live/?id=1ad5aac39bb13fbe2ec2cb9f30304e0c66009b4fba2ebb77ea52e082299e0041a944bad3876258ae144a5806361396c8e85ab4efa4a0d7ea006dc93495ed2873c802ef743e349df9522da0020c8e713dc0857c8b71c968946c3f58912148a8d34bbe5c954ce00a4c257f3a9d45b0d9229bd27d6a9bc682411f064a49519acdca0c17131e549fde54333d017a14618f1e686b47e6cf774351 pageUrl=https://www.filmon.com/ swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=28 conn=O:1 conn=O:0 playpath=581.high.stream buffer=96000000 timeout=10
@@ -188,3 +182,6 @@ rtsp://live240.impek.com/soleiltv
 
 #EXTINF:-1 $ExtFilter="INT",[INT] TV3
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+
+#EXTINF:-1 $ExtFilter="INT",[INT] ARENAVISION
+http://88.150.196.74:8080/arenavision
