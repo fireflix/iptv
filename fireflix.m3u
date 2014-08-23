@@ -46,7 +46,7 @@ http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_1_av-b.m3u8|timeout=10
 http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_3_av-b.m3u8|timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 7 NOTICIAS HD
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8 timeout=10
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8|timeout=10
 
 #EXTINF:-1 $ExtFilter="ES",[ES] RTVE 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8|timeout=10
