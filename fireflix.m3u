@@ -178,12 +178,22 @@ rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioita
 #EXTINF:-1 $ExtFilter="EN",[EN] COSMOPOLITAN TV
 rtmp://50.7.137.90/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 timeout=10
 
+#EXTINF:-1 $ExtFilter="EN",[EN] CAPITAL TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital|timeout=10
 
+#EXTINF:-1 $ExtFilter="EN",[EN] NASA TV
+rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true timeout=10
+
+#EXTINF:-1 $ExtFilter="EN",[EN] NASA TV HD
+rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=10
 
 
 #EXTINF:-1 group-title="CANALES EN OTROS IDIOMAS",------CANALES EN OTROS IDIOMAS------
 #EXTINF:-1 $ExtFilter="INT",[OTRO] ARENAVISION
 http://88.150.196.74:8080/arenavision|timeout=10
+
+#EXTINF:-1 $ExtFilter="INT",[OTRO] DW-TV
+rtmp://s7.webport.tv/live/z020101.stream playpath=z020101.stream http://tvsector.com/mediaplayer/player.swf http://tvsector.com/ live=true timeout=10
 
 #EXTINF:-1 $ExtFilter="INT",[OTRO] BARCELONA TV
 http://195.10.10.206/barcelonatv/barcelonatv-high.flv?token=78174d95560826bab4af49c77b80e9da52a2f36a52a44526&GKID=8adc4e985f2711e39eff00163ea2c744&fspref=aHR0cDovL21lZGlhMC53ZWJ0di5mbHVtb3Rpb24uY29tL2N1c3QvYmFyY2Vsb25hdHYvL3N0YXRpYy9wbGF5ZXIvYXVkaW8vY3VycmVudC9QbGF5ZXJTdHJvYmUtdmI2ZjBhYzM4LnN3Zg==|timeout=10
