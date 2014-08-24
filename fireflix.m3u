@@ -75,8 +75,8 @@ http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763
 #EXTINF:-1 $ExtFilter="ES",[ES] MULTIMEDIOS TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60|User-Agent=iPhone|timeout=10
 
-#EXTINF:-1 $ExtFilter="ES",[ES] CARACOL HD
-rtmp://cdn8.iviplanet.com/CaracolHD/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://cdn.chatytvgratis.me/caracol2.php?width=500&height=350 timeout=10
+#EXTINF:-1 $ExtFilter="ES",[ES] CARACOL
+rtmp://fl01.iviplanet.com/Caracol/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://cdn.divertiendo.me/caracol2.php?width=500&height=350 live=true timeout=10
 
 
 
