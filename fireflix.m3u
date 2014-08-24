@@ -163,7 +163,7 @@ mmsh://wpso.com:200/music
 http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[INT] TVOI STROI
-mms://213.141.145.170/ts_tv9
+mms://213.141.145.170/ts_tv9|timeout=10
 
 #EXTINF:-1 $ExtFilter="INT",[INT] MUSIC CHANNEL
 http://77.36.61.45:8010/MusicChannel.m3u8
