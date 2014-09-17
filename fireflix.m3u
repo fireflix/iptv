@@ -39,6 +39,9 @@ rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.on
 #EXTINF:-1 $ExtFilter="ES",[ES] TN 24 HORAS
 rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/ timeout=10
 
+#EXTINF:-1 $ExtFilter="ES",[ES] TVC LATINO
+rtmp://204.107.26.252:8086/live/213.high.stream
+
 #EXTINF:-1 $ExtFilter="ES",[ES] QUIERO MUSICA
 mms://streamqm.uigc.net/qmusica
 
@@ -87,6 +90,33 @@ mms://83.222.161.217/100livesport
 
 #EXTINF:-1 $ExtFilter="EN",[EN] EUROSPORT HD
 http://149.255.39.122/aasd/8814/index.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] WEALTH TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+
+#EXTINF:-1 $ExtFilter="EN",[EN] BBC
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] ITV
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] TLC
+http://202.75.23.34/live/ch35/01.m3u8
+
+#EXTINF:-1 $ExtFilter="EN",[EN] NAT GEO HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+
+#EXTINF:-1 $ExtFilter="EN",[EN] SYFY HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+
+#EXTINF:-1 $ExtFilter="EN",[EN] FX HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+
+#EXTINF:-1 $ExtFilter="EN",[EN] OUTDOOR
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+
+#EXTINF:-1 $ExtFilter="EN",[EN] HISTORY HD
+http://202.75.23.36/live/ch45/03.m3u8
 
 #EXTINF:-1 $ExtFilter="EN",[EN] CAPITAL TV
 rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
