@@ -228,7 +228,7 @@ http://88.150.196.74:8080/arenavision
 
 #EXTINF:-1 group-title="CANALES ONTV",------CANALES ONTV------
 #EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 1
-https://eu.bestvideostreaming.is/chans/8730/index.m3u8 pageUrl=http://ontv.al/ontv.m3u?id=8730
+https://eu.bestvideostreaming.is/chans/8730/index.m3u8|User-Agent=iPhone
 
 #EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 2
 http://ontv.al/ontv.m3u?id=8731
