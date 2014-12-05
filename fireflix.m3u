@@ -253,6 +253,3 @@ http://ontv.al/ontv.m3u?id=8737
 
 #EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 9
 http://ontv.al/ontv.m3u?id=8738
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 10
-http://ontv.al/ontv.m3u?id=8739
