@@ -227,32 +227,32 @@ http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 http://88.150.196.74:8080/arenavision
 
 #EXTINF:-1 group-title="CANALES ONTV",------CANALES ONTV------
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 1
-http://ontv.al/ontv.m3u?id=8730 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 1
+http://ontv.al/ontv.m3u?id=8730
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 2
-http://ontv.al/ontv.m3u?id=8731 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 2
+http://ontv.al/ontv.m3u?id=8731
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 3
-http://ontv.al/ontv.m3u?id=8732 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 3
+http://ontv.al/ontv.m3u?id=8732
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 4
-http://ontv.al/ontv.m3u?id=8733 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 4
+http://ontv.al/ontv.m3u?id=8733
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 5
-http://ontv.al/ontv.m3u?id=8734 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 5
+http://ontv.al/ontv.m3u?id=8734
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 6
-http://ontv.al/ontv.m3u?id=8735 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 6
+http://ontv.al/ontv.m3u?id=8735
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 7
-http://ontv.al/ontv.m3u?id=8736 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 7
+http://ontv.al/ontv.m3u?id=8736
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 8
-http://ontv.al/ontv.m3u?id=8737 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 8
+http://ontv.al/ontv.m3u?id=8737
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 9
-http://ontv.al/ontv.m3u?id=8738 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 9
+http://ontv.al/ontv.m3u?id=8738
 
-#EXTINF:-1 $ExtFilter="NEW",[ONTV] ONTV 10
-http://ontv.al/ontv.m3u?id=8739 timeout=10
+#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 10
+http://ontv.al/ontv.m3u?id=8739
