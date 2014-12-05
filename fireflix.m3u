@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="EVENTOS ESPECIALES",------EVENTOS ESPECIALES-----
-#EXTINF:-1 $ExtFilter="EV",[EV] TIGRES VS TOLUCA (4/DIC/2014 7:00pm)
-rtmp://condor1271.startdedicated.com:1935/live/live
-
 #EXTINF:-1 $ExtFilter="EV",[EV] RAYADOS VS AMERICA (4/DIC/2014 9:00pm)
 rtmp://condor1271.startdedicated.com:1935/live/live
 
@@ -225,37 +222,3 @@ http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 
 #EXTINF:-1 $ExtFilter="INT",[INT] ARENAVISION
 http://88.150.196.74:8080/arenavision
-
-#EXTINF:-1 group-title="CANALES ONTV",------CANALES ONTV------
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 1
-https://eu.bestvideostreaming.is/chans/8730/index.m3u8|User-Agent=stagefright
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 2
-https://eu.bestvideostreaming.is/chans/8730/index.m3u8|http-user-agent=stagefright
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 3
-http://ontv.al/ontv.m3u?id=8732
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 4
-http://ontv.al/ontv.m3u?id=8733
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 5
-http://ontv.al/ontv.m3u?id=8734
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 6
-http://ontv.al/ontv.m3u?id=8735
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 7
-http://ontv.al/ontv.m3u?id=8736
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 8
-http://ontv.al/ontv.m3u?id=8737
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 9
-http://ontv.al/ontv.m3u?id=8738
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 10
-http://ontv.al/ontv.m3u?id=8739
-
-#EXTINF:-1 $ExtFilter="ONTV",[ONTV] ONTV 11
-http://ontv.al/ontv.m3u?id=8740
