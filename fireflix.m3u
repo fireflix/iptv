@@ -10,10 +10,10 @@ rtmp://condor1271.startdedicated.com:1935/live/live
 
 
 #EXTINF:-1 group-title="CANALES EN ESPAÑOL",------CANALES EN ESPAÑOL-----
-#EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 13 HD
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png",[ES] AZTECA 13 HD
 http://urtmpkal-f.akamaihd.net/i/022fq4x8p_1@130156/index_3_av-b.m3u8
 
-#EXTINF:-1 $ExtFilter="ES",[ES] AZTECA 7 NOTICIAS HD
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png",[ES] AZTECA 7 NOTICIAS HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 #EXTINF:-1 $ExtFilter="ES",[ES] ANTENA 3 HD
