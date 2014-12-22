@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="EVENTOS ESPECIALES",------EVENTOS ESPECIALES-----
 #EXTINF:-1 $ExtFilter="EV" tvg-logo="iptv-ppv.png",FINAL IDA - TIGRES VS AMERICA (11/DIC/2014 8:30pm)
-rtmp://condor1271.startdedicated.com:1935/live/live
-
-#EXTINF:-1 $ExtFilter="EV" tvg-logo="iptv-ppv.png",FINAL VUELTA - AMERICA VS TIGRES (14/DIC/2014 6:00pm)
-rtmp://condor1271.startdedicated.com:1935/live/live
+#rtmp://condor1271.startdedicated.com:1935/live/live
 
 
 
