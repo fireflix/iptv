@@ -1,29 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENTOS ESPECIALES"
-#EXTINF:-1 $ExtFilter="EV" tvg-logo="iptv-ppv.png",FINAL IDA - TIGRES VS AMERICA (11/DIC/2014 8:30pm)
-#rtmp://condor1271.startdedicated.com:1935/live/live
-
-
-
-
 #EXTINF:-1 group-title="CANALES EN ESPAÑOL",------CANALES EN ESPAÑOL-----
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", FOX SPORT 1
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", FOX SPORT 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN 3
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL 5 HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=038&lan=2&rows=40&f=.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=038&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 13 HD
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=018&lan=2&rows=40&f=.m3u8
