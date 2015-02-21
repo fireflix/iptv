@@ -161,6 +161,8 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=10
 
 
+
+
 #EXTINF:-1 group-title="CANALES EN OTROS IDIOMAS",------CANALES EN OTROS IDIOMAS------
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", BEIN SPORT
 http://149.255.39.122/aasd/8817/index.m3u8
@@ -203,9 +205,3 @@ http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", ARENAVISION
 http://88.150.196.74:8080/arenavision
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TAHM
-rtmp://65.60.4.34/live/ app=live/?username=innovacion&password=bancomer live=1 playpath=canal027.stream timeout=15 swfUrl=innovacion/canal027
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TAHM 2
-rtmp://65.60.4.34/live/ app=live/?username=ok&password=ok live=1 playpath=canal027.stream timeout=15 swfUrl=ok/canal027
