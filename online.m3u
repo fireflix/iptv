@@ -1,47 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="CANALES EN ESPAÑOL",------CANALES EN ESPAÑOL-----
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", FOX SPORT 1
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", FOX SPORT 2
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN 2
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ESPN 3
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL 5 HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=038&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 13 HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=018&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 13
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=017&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 7 HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=008&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 7
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AZTECA 7 NOTICIAS HD
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TIIN
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=234&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", BOOMERANG
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TLC HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=254&lan=2&rows=40&f=.m3u8
-
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ANTENA 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
@@ -245,3 +203,9 @@ http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", ARENAVISION
 http://88.150.196.74:8080/arenavision
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TAHM
+rtmp://65.60.4.34/live/ app=live/?username=innovacion&password=bancomer live=1 playpath=canal027.stream timeout=15 swfUrl=innovacion/canal027
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TAHM 2
+rtmp://65.60.4.34/live/ app=live/?username=ok&password=ok live=1 playpath=canal027.stream timeout=15 swfUrl=ok/canal027
