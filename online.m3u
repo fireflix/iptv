@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANALES EN ESPAÑOL",------CANALES EN ESPAÑOL-----
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ANTENA 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
@@ -75,10 +74,6 @@ http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CARACOL
 rtmp://fl01.iviplanet.com/Caracol/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://cdn.divertiendo.me/caracol2.php?width=500&height=350 live=true timeout=10
 
-
-
-
-#EXTINF:-1 group-title="CANALES EN INGLES",------CANALES EN INGLES------
 #EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", AUTOMOTO TV
 mms://83.222.161.217/100livesport
 
@@ -160,10 +155,6 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", NASA TV HD
 rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=10
 
-
-
-
-#EXTINF:-1 group-title="CANALES EN OTROS IDIOMAS",------CANALES EN OTROS IDIOMAS------
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", BEIN SPORT
 http://149.255.39.122/aasd/8817/index.m3u8
 
