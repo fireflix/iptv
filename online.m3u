@@ -1,6 +1,63 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ANTENA 3 HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL ONCE
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8<
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", OCHO TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TRENDY
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", YES!
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", MISSION TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PAC-12
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PAC-12 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PENTAGON CHANNEL
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PSYCHIC TODAY
+http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", UNIVERSITY OF CALIFORNIA TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VERNISSAGE TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8<
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELEMADRID
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELEMEDELLIN
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", EXTREMADURA TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", LA SEXTA HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
@@ -17,25 +74,37 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELESISTEMA
 http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CLASICO TV
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chdocfr/2012/08/23/6c09e157-aebe-467e-8244-46105020f22d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.miscanalesdetv.net/2013/01/clasico-tv.html timeout=10
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ANDALUCIA TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELEFORMULA
-rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://radioteve.com/tele/centroamerica/mexico/teleformula.html timeout=10
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", HISPANTV
+http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", NUESTRA VISION
-rtmp://video.stream.mx/8058/8058
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELEANTIOQUIA
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ONCE TV
-rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf live=1 pageUrl=http://canalesok.blogspot.mx/2014/01/once-tv.html timeout=10
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TVMAS VERACRUZ
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CABLE NOTICIAS
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", AMERICA TV
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", GOTICA TV
+rtmp://149.11.34.6:1935/live/gotica.stream
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", MIMUSICA HD
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TN 24 HORAS
 rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/ timeout=10
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TVC LATINO
-rtmp://204.107.26.252:8086/live/213.high.stream
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-music.png", QUIERO MUSICA
+#EXTINF:-1 $ExtFilter="ES" tvg-logo=" iptv-tv.png", QUIERO MUSICA
 mms://streamqm.uigc.net/qmusica
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", LIBERTAD DIGITAL
@@ -50,124 +119,40 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", STV RIOJA
 mms://87.106.208.121/stv
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", COLOR VISION
-rtmp://192.99.148.27:1935/rtplive/_definst_/colorvision playpath=colorvision.sdp swfUrl=http://www.colorvision.do/flvplayer.swf pageUrl=http://www.colorvision.do/Canal9.htm live=true timeout=10
-
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL 7 XHSLV
 rtmp://187.188.159.113/live playpath=web.sdp swfUrl=http://www.canal7slp.com/wp-content/themes/canal7-clean_v2/mediaplayer/player.swf live=1 pageUrl=http://www.canal7slp.com/ timeout=10
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", RTVE 1
-http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8|User-Agent=iPhone
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", RTVE 2
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", RTVE
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8|User-Agent=iPhone
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", HOGAR UTIL
 http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", MILENIO TV
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG|User-Agent=iPhone|timeout=10
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", MULTIMEDIOS TV
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60|User-Agent=iPhone|timeout=10
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=multimedios_tv_612k@55732&start=0&id=undefined&client=FLASH%20WIN%2011,9,900,117&version=4.1.60
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CARACOL
-rtmp://fl01.iviplanet.com/Caracol/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://cdn.divertiendo.me/caracol2.php?width=500&height=350 live=true timeout=10
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", AUTOMOTO TV
-mms://83.222.161.217/100livesport
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", EUROSPORT HD
-http://149.255.39.122/aasd/8814/index.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", BBC
-http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", ITV
-http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", TLC
-http://202.75.23.34/live/ch35/01.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", NAT GEO HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", SYFY HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", FX HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", OUTDOOR
-rtmp://lm02.everyon.tv:1935/ptv2/pld613
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", HISTORY HD
-http://202.75.23.36/live/ch45/03.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", CAPITAL TV
-rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", IBIZA ON TV
+#EXTINF:-1 $ExtFilter="EN" tvg-logo=" iptv-tv.png", IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", KISS TV
+#EXTINF:-1 $ExtFilter="EN" tvg-logo=" iptv-tv.png", KISS TV
 http://kissfm.en-directo.com/iphone/index_multirate.m3u8
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", ROCK ONE
+#EXTINF:-1 $ExtFilter="EN" tvg-logo=" iptv-tv.png", ROCK ONE
 mmsh://mediatv2.topix.it/24RockOne66
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", CLASSIC HD
+#EXTINF:-1 $ExtFilter="EN" tvg-logo=" iptv-tv.png", VH1 CLASSIC
 http://212.79.96.134:8024
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-music.png", VIRGIN TV
+#EXTINF:-1 $ExtFilter="EN" tvg-logo=" iptv-tv.png", VIRGIN TV
 rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410 timeout=10
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 ARIZONA
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 ARIZONA HD
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 LOS ANGELES
-http://xrxs.net/video/live-p12losa-1164.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 LOS ANGELES HD
-http://xrxs.net/video/live-p12losa-2328.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 MOUNTAIN
-http://xrxs.net/video/live-p12moun-1164.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 MOUNTAIN HD
-http://xrxs.net/video/live-p12moun-2328.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 OREGON
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 OREGON HD
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 WASHINGTON
-http://xrxs.net/video/live-p12wash-1164.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", PAC-12 WASHINGTON HD
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="iptv-tv.png", NASA TV HD
-rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=10
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", BEIN SPORT
-http://149.255.39.122/aasd/8817/index.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", BOLLYWOOD MUSIC
-rtsp://46.249.213.87/broadcast/bollywoodnirvanamusic-tablet.3gp
-
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", GALICIA TV
-rtmp://live61.la3.edge.filmon.com:1935/ app=live/?id=1ad5aac39bb13fbe2ec2cb9f30304e0c66009b4fba2ebb77ea52e082299e0041a944bad3876258ae144a5806361396c8e85ab4efa4a0d7ea006dc93495ed2873c802ef743e349df9522da0020c8e713dc0857c8b71c968946c3f58912148a8d34bbe5c954ce00a4c257f3a9d45b0d9229bd27d6a9bc682411f064a49519acdca0c17131e549fde54333d017a14618f1e686b47e6cf774351 pageUrl=https://www.filmon.com/ swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=28 conn=O:1 conn=O:0 playpath=581.high.stream buffer=96000000 timeout=10
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", TVG AMERICA
-http://media3.crtvg.es/live/tvga/vcx7.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", GREEK MUSIC HITS
+#EXTINF:-1 $ExtFilter="INT" tvg-logo=" iptv-tv.png", GREEK MUSIC HITS
 mmsh://wpso.com:200/music
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", IDMAN
@@ -176,23 +161,11 @@ http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", TVOI STROI
 mms://213.141.145.170/ts_tv9|timeout=10
 
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", MUSIC CHANNEL
-http://77.36.61.45:8010/MusicChannel.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", MUSIQ 1
+#EXTINF:-1 $ExtFilter="INT" tvg-logo=" iptv-tv.png", MUSIQ 1
 http://88.212.10.27:81/streams/musiq1.m3u8
 
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", MUSIQ 1 HD
+#EXTINF:-1 $ExtFilter="INT" tvg-logo=" iptv-tv.png", ART TV
 http://212.79.96.134:8005
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", OCKO TV
-http://194.79.52.79/ockoi/ockoHQ2/hasbahca.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-music.png", SOLEIL TV
-rtsp://live240.impek.com/soleiltv
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", TV3
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", ARENAVISION
-http://88.150.196.74:8080/arenavision
