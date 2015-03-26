@@ -32,9 +32,6 @@ rtmp://streamer1.streamhost.org/salive/GMImissiontvh
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", HSN TV
 rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PAC-12
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", PAC-12 HD
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
@@ -48,7 +45,7 @@ http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VERNISSAGE TV
-http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8<
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TELEMADRID
 http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
@@ -151,9 +148,6 @@ rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioita
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", GALICIA TV
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
-
-#EXTINF:-1 $ExtFilter="INT" tvg-logo=" iptv-tv.png", GREEK MUSIC HITS
-mmsh://wpso.com:200/music
 
 #EXTINF:-1 $ExtFilter="INT" tvg-logo="iptv-tv.png", IDMAN
 http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
