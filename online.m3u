@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", ANTENA 3
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL ONCE
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", OCHO TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", TRENDY
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", CANAL ONCE
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", YES!
-http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", MEGA HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="iptv-tv.png", VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
