@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",[HD] Canal 2 HD
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[HD] Televisa MTY HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[HD] Canal 2 HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif",[HD] Foro TV HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",[HD] Canal 5 HD
@@ -71,7 +71,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",[HD] Distrito Comedia
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comediy-central.gif",[HD] Comedy Central
+#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central.gif",[HD] Comedy Central
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",[HD] TBS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
@@ -169,11 +169,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",[HD] Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/i.sat.gif",[HD] I.Sat
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",[HD] I.Sat
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",[HD] TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-.gif",[HD] ESPN +
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",[HD] ESPN +
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",[HD] ESPN 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
@@ -209,10 +209,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[SD] Televisa MTY _HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[SD] Canal 2 HD
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",[SD] Canal 2 HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[SD] Televisa MTY
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif",[SD] Foro TV HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",[SD] Canal 5 HD
@@ -281,7 +281,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",[SD] Distrito Comedia
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comediy-central.gif",[SD] Comedy Central
+#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central.gif",[SD] Comedy Central
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",[SD] TBS
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
@@ -379,11 +379,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",[SD] Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/i.sat.gif",[SD] I.Sat
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",[SD] I.Sat
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",[SD] TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-.gif",[SD] ESPN +
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",[SD] ESPN +
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",[SD] ESPN 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
@@ -583,11 +583,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE02.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE02.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",[LQ] Studio Universal
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE02.m3u8
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/i.sat.gif",[LQ] I.Sat
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",[LQ] I.Sat
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE02.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",[LQ] TCM
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE02.m3u8
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-.gif",[LQ] ESPN +
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",[LQ] ESPN +
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE02.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",[LQ] ESPN 3
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE02.m3u8
