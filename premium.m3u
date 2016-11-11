@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 $ExtFilter="EN" $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",[COLOR limegreen]PREMIUM TV STATUS: WORKING[/COLOR]
+#EXTINF:-1 $ExtFilter="EN" $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",[COLOR limegreen]ONLINE STATUS: WORKING[/COLOR]
 http://
 #EXTINF:-1 $ExtFilter="EN" $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",USA:FIGHT-SPORT
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2277.ts|User-Agent=www.iptvrestream.net
