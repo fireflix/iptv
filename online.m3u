@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Status",[COLOR limegreen]ONLINE TV: WORKING[/COLOR]
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",[COLOR limegreen]ONLINE TV: WORKING[/COLOR]
 http://
 
 #EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",CANAL ONCE
