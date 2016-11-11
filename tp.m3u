@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Status" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",[COLOR limegreen]ONLINE STATUS: WORKING[/COLOR]
 http://
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="",[HD] Canal 2 HD
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="null",[HD] Canal 2 HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif",[HD] Televisa MTY HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1938/PROFILE05.m3u8
-#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="",[HD] Foro TV HD
+#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="null",[HD] Foro TV HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",[HD] Canal 5 HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
