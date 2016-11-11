@@ -1,21 +1,6 @@
 #EXTM3U
-#EXTINF:-1,USA:FIGHT-SPORT
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2277.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | TSN 5*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/96.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | TSN 4 HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/95.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | TSN 3*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/94.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | TSN 2
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/93.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | TSN 1*
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/92.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA:CA | Sportsnet 360 HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/97.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA: TBS HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/138.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA: ESPN 2
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/121.ts|User-Agent=www.iptvrestream.net
-#EXTINF:-1,USA | WWE HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2.ts|User-Agent=www.iptvrestream.net
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",TVMAS VERACRUZ
+rtmp://50.7.98.234/rtv/videortv
