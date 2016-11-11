@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:0,[COLOR limegreen]FREE TV STATUS: WORKING[/COLOR]
+#EXTINF:-1 tvg-id="Status",[COLOR limegreen]ONLINE TV: WORKING[/COLOR]
 http://
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", CANAL ONCE
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",CANAL ONCE
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", HSN TV
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",HSN TV
 rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", PAC-12 HD
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",PAC-12 HD
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", UNIVERSITY OF CALIFORNIA TV
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",UNIVERSITY OF CALIFORNIA TV
 rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", TELEMADRID
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",TELEMADRID
 http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", EXTREMADURA TV
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",EXTREMADURA TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", IB3
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", ANDALUCIA TV
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",ANDALUCIA TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", RADIO Y TELEVISION MEXIQUENSE
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",RADIO Y TELEVISION MEXIQUENSE
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", TVMAS VERACRUZ
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",TVMAS VERACRUZ
 rtmp://50.7.98.234/rtv/videortv
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", QUIERO MUSICA
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",QUIERO MUSICA
 mms://streamqm.uigc.net/qmusica
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", LUZ TV SEVILLA
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",LUZ TV SEVILLA
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", RTPA ASTURIAS
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",RTPA ASTURIAS
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", STV RIOJA
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",STV RIOJA
 mms://87.106.208.121/stv
 
-#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", MILENIO TV
+#EXTINF:-1 $ExtFilter="ES" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",MILENIO TV
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956?videoId=1389353763001&lineUpId=&pubId=57828478001&playerId=86401898001&affiliateId=&bandwidthEstimationTest=true&v=3.1.0&fp=WIN%2011,9,900,117&r=PDSYR&g=WCNOJDJFLKTG
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", KISS TV
+#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",KISS TV
 http://kissfm.en-directo.com/iphone/index_multirate.m3u8
 
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", ROCK ONE
+#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",ROCK ONE
 mmsh://mediatv2.topix.it/24RockOne66
 
-#EXTINF:-1 $ExtFilter="INT" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png", TV3
+#EXTINF:-1 $ExtFilter="INT" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",TV3
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
