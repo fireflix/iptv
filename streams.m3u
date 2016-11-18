@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=www.iptvrestream.net
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",USA: ANIMAL PLANET HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/132.ts
-
-#EXTVLCOPT:http-user-agent=www.iptvrestream.net
-#EXTINF:-1 $ExtFilter="EN" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",USA: CNN HD
-http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/142.ts
