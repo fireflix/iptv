@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/iptv-channel.png",[COLOR limegreen]ONLINE STATUS: WORKING[/COLOR]
 http://
-#EXTINF:-1 tvg-logo="tp.png",Totalplay
-https://raw.githubusercontent.com/fireflix/iptv/master/tp.m3u
 #EXTINF:-1,ES: #0 HD
 http://iptvfree1.com:6969/live/Livetvfuckyou/2BdAqhZZiM/2729.ts|User-Agent=www.iptvrestream.net
 #EXTINF:-1,ES: ANTENA 3 HD
