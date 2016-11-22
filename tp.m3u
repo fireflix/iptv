@@ -1,209 +1,415 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Status" tvg-logo="https://raw.githubusercontent.com/fireflix/iptv/master/logos/tp.png",[COLOR limegreen]ONLINE STATUS: WORKING[/COLOR]
 http://
-#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",MX: Canal 2 HD
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",MX: [SD] Canal 2 HD
 http://i.fireflix.tv/iptv/tp.php?c=102&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif",MX: Foro TV HD
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif",MX: [HD] Canal 2 HD
+http://i.fireflix.tv/iptv/tp.php?c=102&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif",MX: [SD] Foro TV HD
 http://i.fireflix.tv/iptv/tp.php?c=104&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",MX: Canal 5 HD
+#EXTINF:-1 tvg-id="Foro TV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/foro-tv-hd.gif",MX: [HD] Foro TV HD
+http://i.fireflix.tv/iptv/tp.php?c=104&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",MX: [SD] Canal 5 HD
 http://i.fireflix.tv/iptv/tp.php?c=105&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/azteca-7-hd.gif",MX: Azteca 7 HD
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif",MX: [HD] Canal 5 HD
+http://i.fireflix.tv/iptv/tp.php?c=105&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/azteca-7-hd.gif",MX: [SD] Azteca 7 HD
 http://i.fireflix.tv/iptv/tp.php?c=107&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/gala-tv-hd.gif",MX: Gala TV HD
+#EXTINF:-1 tvg-id="Azteca 7 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/azteca-7-hd.gif",MX: [HD] Azteca 7 HD
+http://i.fireflix.tv/iptv/tp.php?c=107&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/gala-tv-hd.gif",MX: [SD] Gala TV HD
 http://i.fireflix.tv/iptv/tp.php?c=109&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Once TV" tvg-logo="http://z.cdn.entutele.com/media/channels/big/once-tv.gif",MX: Once TV
+#EXTINF:-1 tvg-id="Gala TV HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/gala-tv-hd.gif",MX: [HD] Gala TV HD
+http://i.fireflix.tv/iptv/tp.php?c=109&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Once TV" tvg-logo="http://z.cdn.entutele.com/media/channels/big/once-tv.gif",MX: [SD] Once TV
 http://i.fireflix.tv/iptv/tp.php?c=111&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="El trece HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece-hd.gif",MX: El trece HD
+#EXTINF:-1 tvg-id="Once TV" tvg-logo="http://z.cdn.entutele.com/media/channels/big/once-tv.gif",MX: [HD] Once TV
+http://i.fireflix.tv/iptv/tp.php?c=111&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="El trece HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece-hd.gif",MX: [SD] El trece HD
 http://i.fireflix.tv/iptv/tp.php?c=113&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Proyecto 40 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/proyecto-40-hd.gif",MX: Proyecto 40 HD
+#EXTINF:-1 tvg-id="El trece HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-trece-hd.gif",MX: [HD] El trece HD
+http://i.fireflix.tv/iptv/tp.php?c=113&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Proyecto 40 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/proyecto-40-hd.gif",MX: [SD] Proyecto 40 HD
 http://i.fireflix.tv/iptv/tp.php?c=140&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif",MX: TeleFormula
+#EXTINF:-1 tvg-id="Proyecto 40 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/proyecto-40-hd.gif",MX: [HD] Proyecto 40 HD
+http://i.fireflix.tv/iptv/tp.php?c=140&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif",MX: [SD] TeleFormula
 http://i.fireflix.tv/iptv/tp.php?c=161&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif",MX: Multimedios Monterrey
+#EXTINF:-1 tvg-id="TeleFórmula" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif",MX: [HD] TeleFormula
+http://i.fireflix.tv/iptv/tp.php?c=161&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif",MX: [SD] Multimedios Monterrey
 http://i.fireflix.tv/iptv/tp.php?c=167&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-hd.gif",MX: Fox HD
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-logo="http://z.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif",MX: [HD] Multimedios Monterrey
+http://i.fireflix.tv/iptv/tp.php?c=167&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-hd.gif",MX: [SD] Fox HD
 http://i.fireflix.tv/iptv/tp.php?c=201&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/sony-hd.gif",MX: Sony HD
+#EXTINF:-1 tvg-id="Fox HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-hd.gif",MX: [HD] Fox HD
+http://i.fireflix.tv/iptv/tp.php?c=201&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/sony-hd.gif",MX: [SD] Sony HD
 http://i.fireflix.tv/iptv/tp.php?c=203&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-hd.gif",MX: Warner HD
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/sony-hd.gif",MX: [HD] Sony HD
+http://i.fireflix.tv/iptv/tp.php?c=203&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-hd.gif",MX: [SD] Warner HD
 http://i.fireflix.tv/iptv/tp.php?c=205&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",MX: Universal HD
+#EXTINF:-1 tvg-id="Warner HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-hd.gif",MX: [HD] Warner HD
+http://i.fireflix.tv/iptv/tp.php?c=205&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",MX: [SD] Universal HD
 http://i.fireflix.tv/iptv/tp.php?c=207&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif",MX: FX HD
+#EXTINF:-1 tvg-id="Universal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif",MX: [HD] Universal HD
+http://i.fireflix.tv/iptv/tp.php?c=207&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif",MX: [SD] FX HD
 http://i.fireflix.tv/iptv/tp.php?c=209&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae-hd.gif",MX: A&E HD
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif",MX: [HD] FX HD
+http://i.fireflix.tv/iptv/tp.php?c=209&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae-hd.gif",MX: [SD] A&E HD
 http://i.fireflix.tv/iptv/tp.php?c=211&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/axn-hd.gif",MX: AXN HD
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae-hd.gif",MX: [HD] A&E HD
+http://i.fireflix.tv/iptv/tp.php?c=211&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/axn-hd.gif",MX: [SD] AXN HD
 http://i.fireflix.tv/iptv/tp.php?c=213&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif",MX: TruTV HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/axn-hd.gif",MX: [HD] AXN HD
+http://i.fireflix.tv/iptv/tp.php?c=213&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif",MX: [SD] TruTV HD
 http://i.fireflix.tv/iptv/tp.php?c=215&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",MX: Comedy Central HD
+#EXTINF:-1 tvg-id="TruTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif",MX: [HD] TruTV HD
+http://i.fireflix.tv/iptv/tp.php?c=215&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",MX: [SD] Comedy Central HD
 http://i.fireflix.tv/iptv/tp.php?c=217&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable-hd.gif",MX: Unicable HD
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif",MX: [HD] Comedy Central HD
+http://i.fireflix.tv/iptv/tp.php?c=217&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable-hd.gif",MX: [SD] Unicable HD
 http://i.fireflix.tv/iptv/tp.php?c=218&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Más chic" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif",MX: Mas chic
+#EXTINF:-1 tvg-id="Unicable HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable-hd.gif",MX: [HD] Unicable HD
+http://i.fireflix.tv/iptv/tp.php?c=218&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Más chic" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif",MX: [SD] Mas chic
 http://i.fireflix.tv/iptv/tp.php?c=221&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Az Corazón" tvg-logo="http://x.cdn.entutele.com/media/channels/big/az-corazon.gif",MX: Az Corazon
+#EXTINF:-1 tvg-id="Más chic" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif",MX: [HD] Mas chic
+http://i.fireflix.tv/iptv/tp.php?c=221&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Az Corazón" tvg-logo="http://x.cdn.entutele.com/media/channels/big/az-corazon.gif",MX: [SD] Az Corazon
 http://i.fireflix.tv/iptv/tp.php?c=250&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif",MX: Fox
+#EXTINF:-1 tvg-id="Az Corazón" tvg-logo="http://x.cdn.entutele.com/media/channels/big/az-corazon.gif",MX: [HD] Az Corazon
+http://i.fireflix.tv/iptv/tp.php?c=250&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif",MX: [SD] Fox
 http://i.fireflix.tv/iptv/tp.php?c=251&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif",MX: Sony
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif",MX: [HD] Fox
+http://i.fireflix.tv/iptv/tp.php?c=251&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif",MX: [SD] Sony
 http://i.fireflix.tv/iptv/tp.php?c=252&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",MX: BBC Entertainment
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif",MX: [HD] Sony
+http://i.fireflix.tv/iptv/tp.php?c=252&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",MX: [SD] BBC Entertainment
 http://i.fireflix.tv/iptv/tp.php?c=253&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",MX: E! Entertainment Television
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif",MX: [HD] BBC Entertainment
+http://i.fireflix.tv/iptv/tp.php?c=253&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",MX: [SD] E! Entertainment Television
 http://i.fireflix.tv/iptv/tp.php?c=255&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/universal-channel.gif",MX: Universal Channel
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif",MX: [HD] E! Entertainment Television
+http://i.fireflix.tv/iptv/tp.php?c=255&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/universal-channel.gif",MX: [SD] Universal Channel
 http://i.fireflix.tv/iptv/tp.php?c=256&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="SyFy" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif",MX: SyFy
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/universal-channel.gif",MX: [HD] Universal Channel
+http://i.fireflix.tv/iptv/tp.php?c=256&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif",MX: [SD] SyFy
 http://i.fireflix.tv/iptv/tp.php?c=257&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",MX: FX
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif",MX: [HD] SyFy
+http://i.fireflix.tv/iptv/tp.php?c=257&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",MX: [SD] FX
 http://i.fireflix.tv/iptv/tp.php?c=258&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif",MX: Investigation Discovery
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif",MX: [HD] FX
+http://i.fireflix.tv/iptv/tp.php?c=258&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif",MX: [SD] Investigation Discovery
 http://i.fireflix.tv/iptv/tp.php?c=263&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-series.gif",MX: TNT Series
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif",MX: [HD] Investigation Discovery
+http://i.fireflix.tv/iptv/tp.php?c=263&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-series.gif",MX: [SD] TNT Series
 http://i.fireflix.tv/iptv/tp.php?c=266&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif",MX: El Gourmet
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-series.gif",MX: [HD] TNT Series
+http://i.fireflix.tv/iptv/tp.php?c=266&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif",MX: [SD] El Gourmet
 http://i.fireflix.tv/iptv/tp.php?c=268&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Glitz" tvg-logo="http://z.cdn.entutele.com/media/channels/big/glitz.gif",MX: Glitz
+#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif",MX: [HD] El Gourmet
+http://i.fireflix.tv/iptv/tp.php?c=268&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Glitz" tvg-logo="http://z.cdn.entutele.com/media/channels/big/glitz.gif",MX: [SD] Glitz
 http://i.fireflix.tv/iptv/tp.php?c=270&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",MX: Fox Life
+#EXTINF:-1 tvg-id="Glitz" tvg-logo="http://z.cdn.entutele.com/media/channels/big/glitz.gif",MX: [HD] Glitz
+http://i.fireflix.tv/iptv/tp.php?c=270&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",MX: [SD] Fox Life
 http://i.fireflix.tv/iptv/tp.php?c=271&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",MX: Distrito Comedia
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif",MX: [HD] Fox Life
+http://i.fireflix.tv/iptv/tp.php?c=271&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",MX: [SD] Distrito Comedia
 http://i.fireflix.tv/iptv/tp.php?c=272&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central.gif",MX: Comedy Central
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif",MX: [HD] Distrito Comedia
+http://i.fireflix.tv/iptv/tp.php?c=272&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central.gif",MX: [SD] Comedy Central
 http://i.fireflix.tv/iptv/tp.php?c=217&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",MX: TBS
+#EXTINF:-1 tvg-id="comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central.gif",MX: [HD] Comedy Central
+http://i.fireflix.tv/iptv/tp.php?c=217&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",MX: [SD] TBS
 http://i.fireflix.tv/iptv/tp.php?c=273&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tlnovelas.gif",MX: Tlnovelas
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif",MX: [HD] TBS
+http://i.fireflix.tv/iptv/tp.php?c=273&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tlnovelas.gif",MX: [SD] Tlnovelas
 http://i.fireflix.tv/iptv/tp.php?c=275&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",MX: Az Mundo
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tlnovelas.gif",MX: [HD] Tlnovelas
+http://i.fireflix.tv/iptv/tp.php?c=275&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",MX: [SD] Az Mundo
 http://i.fireflix.tv/iptv/tp.php?c=276&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",MX: Discovery Kids
+#EXTINF:-1 tvg-id="Az Mundo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif",MX: [HD] Az Mundo
+http://i.fireflix.tv/iptv/tp.php?c=276&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",MX: [SD] Discovery Kids
 http://i.fireflix.tv/iptv/tp.php?c=303&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="CBeebies" tvg-logo="http://x.cdn.entutele.com/media/channels/big/cbeebies.gif",MX: CBeebies
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif",MX: [HD] Discovery Kids
+http://i.fireflix.tv/iptv/tp.php?c=303&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="CBeebies" tvg-logo="http://x.cdn.entutele.com/media/channels/big/cbeebies.gif",MX: [SD] CBeebies
 http://i.fireflix.tv/iptv/tp.php?c=305&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",MX: Disney Jr
+#EXTINF:-1 tvg-id="CBeebies" tvg-logo="http://x.cdn.entutele.com/media/channels/big/cbeebies.gif",MX: [HD] CBeebies
+http://i.fireflix.tv/iptv/tp.php?c=305&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",MX: [SD] Disney Jr
 http://i.fireflix.tv/iptv/tp.php?c=308&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif",MX: Nick Jr
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",MX: [HD] Disney Jr
+http://i.fireflix.tv/iptv/tp.php?c=308&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif",MX: [SD] Nick Jr
 http://i.fireflix.tv/iptv/tp.php?c=310&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",MX: Disney Channel
+#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif",MX: [HD] Nick Jr
+http://i.fireflix.tv/iptv/tp.php?c=310&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",MX: [SD] Disney Channel
 http://i.fireflix.tv/iptv/tp.php?c=312&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nicktoons.gif",MX: Nicktoons
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif",MX: [HD] Disney Channel
+http://i.fireflix.tv/iptv/tp.php?c=312&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nicktoons.gif",MX: [SD] Nicktoons
 http://i.fireflix.tv/iptv/tp.php?c=314&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif",MX: Nick HD
+#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nicktoons.gif",MX: [HD] Nicktoons
+http://i.fireflix.tv/iptv/tp.php?c=314&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif",MX: [SD] Nick HD
 http://i.fireflix.tv/iptv/tp.php?c=315&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif",MX: Nickelodeon (Nick)
+#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif",MX: [HD] Nick HD
+http://i.fireflix.tv/iptv/tp.php?c=315&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif",MX: [SD] Nickelodeon (Nick)
 http://i.fireflix.tv/iptv/tp.php?c=317&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif",MX: Cartoon Network
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif",MX: [HD] Nickelodeon (Nick)
+http://i.fireflix.tv/iptv/tp.php?c=317&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif",MX: [SD] Cartoon Network
 http://i.fireflix.tv/iptv/tp.php?c=320&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-xd.gif",MX: Disney XD
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif",MX: [HD] Cartoon Network
+http://i.fireflix.tv/iptv/tp.php?c=320&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-xd.gif",MX: [SD] Disney XD
 http://i.fireflix.tv/iptv/tp.php?c=322&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://x.cdn.entutele.com/media/channels/big/boomerang.gif",MX: Boomerang
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-xd.gif",MX: [HD] Disney XD
+http://i.fireflix.tv/iptv/tp.php?c=322&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://x.cdn.entutele.com/media/channels/big/boomerang.gif",MX: [SD] Boomerang
 http://i.fireflix.tv/iptv/tp.php?c=324&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tiin.gif",MX: TIIN
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://x.cdn.entutele.com/media/channels/big/boomerang.gif",MX: [HD] Boomerang
+http://i.fireflix.tv/iptv/tp.php?c=324&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tiin.gif",MX: [SD] TIIN
 http://i.fireflix.tv/iptv/tp.php?c=325&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tooncast.gif",MX: Tooncast
+#EXTINF:-1 tvg-id="TIIN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tiin.gif",MX: [HD] TIIN
+http://i.fireflix.tv/iptv/tp.php?c=325&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tooncast.gif",MX: [SD] Tooncast
 http://i.fireflix.tv/iptv/tp.php?c=328&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",MX: Discovery Theater HD
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tooncast.gif",MX: [HD] Tooncast
+http://i.fireflix.tv/iptv/tp.php?c=328&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",MX: [SD] Discovery Theater HD
 http://i.fireflix.tv/iptv/tp.php?c=351&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="History HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-hd.gif",MX: History HD
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif",MX: [HD] Discovery Theater HD
+http://i.fireflix.tv/iptv/tp.php?c=351&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="History HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-hd.gif",MX: [SD] History HD
 http://i.fireflix.tv/iptv/tp.php?c=353&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif",MX: NatGeo Wild HD
+#EXTINF:-1 tvg-id="History HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/history-hd.gif",MX: [HD] History HD
+http://i.fireflix.tv/iptv/tp.php?c=353&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif",MX: [SD] NatGeo Wild HD
 http://i.fireflix.tv/iptv/tp.php?c=355&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",MX: Discovery World HD
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif",MX: [HD] NatGeo Wild HD
+http://i.fireflix.tv/iptv/tp.php?c=355&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",MX: [SD] Discovery World HD
 http://i.fireflix.tv/iptv/tp.php?c=356&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif",MX: Discovery Channel
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif",MX: [HD] Discovery World HD
+http://i.fireflix.tv/iptv/tp.php?c=356&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif",MX: [SD] Discovery Channel
 http://i.fireflix.tv/iptv/tp.php?c=371&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://x.cdn.entutele.com/media/channels/big/animal-planet.gif",MX: Animal Planet
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif",MX: [HD] Discovery Channel
+http://i.fireflix.tv/iptv/tp.php?c=371&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://x.cdn.entutele.com/media/channels/big/animal-planet.gif",MX: [SD] Animal Planet
 http://i.fireflix.tv/iptv/tp.php?c=373&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/big/home-and-health.gif",MX: Home and Health
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://x.cdn.entutele.com/media/channels/big/animal-planet.gif",MX: [HD] Animal Planet
+http://i.fireflix.tv/iptv/tp.php?c=373&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/big/home-and-health.gif",MX: [SD] Home and Health
 http://i.fireflix.tv/iptv/tp.php?c=374&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo.gif",MX: NatGeo
+#EXTINF:-1 tvg-id="Home and Health" tvg-logo="http://z.cdn.entutele.com/media/channels/big/home-and-health.gif",MX: [HD] Home and Health
+http://i.fireflix.tv/iptv/tp.php?c=374&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo.gif",MX: [SD] NatGeo
 http://i.fireflix.tv/iptv/tp.php?c=377&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://z.cdn.entutele.com/media/channels/big/lifetime.gif",MX: Lifetime
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo.gif",MX: [HD] NatGeo
+http://i.fireflix.tv/iptv/tp.php?c=377&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://z.cdn.entutele.com/media/channels/big/lifetime.gif",MX: [SD] Lifetime
 http://i.fireflix.tv/iptv/tp.php?c=379&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",MX: Discovery Science
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://z.cdn.entutele.com/media/channels/big/lifetime.gif",MX: [HD] Lifetime
+http://i.fireflix.tv/iptv/tp.php?c=379&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",MX: [SD] Discovery Science
 http://i.fireflix.tv/iptv/tp.php?c=381&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif",MX: Discovery Civilization
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",MX: [HD] Discovery Science
+http://i.fireflix.tv/iptv/tp.php?c=381&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif",MX: [SD] Discovery Civilization
 http://i.fireflix.tv/iptv/tp.php?c=382&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif",MX: Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif",MX: [HD] Discovery Civilization
+http://i.fireflix.tv/iptv/tp.php?c=382&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif",MX: [SD] Discovery Turbo
 http://i.fireflix.tv/iptv/tp.php?c=383&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif",MX: TLC
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif",MX: [HD] Discovery Turbo
+http://i.fireflix.tv/iptv/tp.php?c=383&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif",MX: [SD] TLC
 http://i.fireflix.tv/iptv/tp.php?c=386&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="WOBI" tvg-logo="http://x.cdn.entutele.com/media/channels/big/wobi-tv.gif",MX: WOBI
-http://i.fireflix.tv/iptv/tp.php?c=386&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox 1 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-1-hd.gif",MX: Fox 1 HD
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif",MX: [HD] TLC
+http://i.fireflix.tv/iptv/tp.php?c=386&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="WOBI" tvg-logo="http://x.cdn.entutele.com/media/channels/big/wobi-tv.gif",MX: [SD] WOBI
+http://i.fireflix.tv/iptv/tp.php?c=387&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="WOBI" tvg-logo="http://x.cdn.entutele.com/media/channels/big/wobi-tv.gif",MX: [HD] WOBI
+http://i.fireflix.tv/iptv/tp.php?c=387&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-1-hd.gif",MX: [SD] Fox 1 HD
 http://i.fireflix.tv/iptv/tp.php?c=415&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",MX: Fox Action HD
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-1-hd.gif",MX: [HD] Fox 1 HD
+http://i.fireflix.tv/iptv/tp.php?c=415&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",MX: [SD] Fox Action HD
 http://i.fireflix.tv/iptv/tp.php?c=416&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",MX: Fox Movies HD
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",MX: [HD] Fox Action HD
+http://i.fireflix.tv/iptv/tp.php?c=416&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",MX: [SD] Fox Movies HD
 http://i.fireflix.tv/iptv/tp.php?c=417&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-cinema.gif",MX: Fox Cinema
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",MX: [HD] Fox Movies HD
+http://i.fireflix.tv/iptv/tp.php?c=417&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-cinema.gif",MX: [SD] Fox Cinema
 http://i.fireflix.tv/iptv/tp.php?c=421&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif",MX: Fox Classics
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-cinema.gif",MX: [HD] Fox Cinema
+http://i.fireflix.tv/iptv/tp.php?c=421&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif",MX: [SD] Fox Classics
 http://i.fireflix.tv/iptv/tp.php?c=424&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",MX: Cinecanal HD
+#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif",MX: [HD] Fox Classics
+http://i.fireflix.tv/iptv/tp.php?c=424&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",MX: [SD] Cinecanal HD
 http://i.fireflix.tv/iptv/tp.php?c=430&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Golden HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-hd.gif",MX: Golden HD
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif",MX: [HD] Cinecanal HD
+http://i.fireflix.tv/iptv/tp.php?c=430&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-hd.gif",MX: [SD] Golden HD
 http://i.fireflix.tv/iptv/tp.php?c=436&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif",MX: TNT HD
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-hd.gif",MX: [HD] Golden HD
+http://i.fireflix.tv/iptv/tp.php?c=436&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif",MX: [SD] TNT HD
 http://i.fireflix.tv/iptv/tp.php?c=436&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="The Film Zone HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",MX: The Film Zone HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif",MX: [HD] TNT HD
+http://i.fireflix.tv/iptv/tp.php?c=436&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",MX: [SD] The Film Zone HD
 http://i.fireflix.tv/iptv/tp.php?c=440&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="De Película HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif",MX: De Pelicula HD
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",MX: [HD] The Film Zone HD
+http://i.fireflix.tv/iptv/tp.php?c=440&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="De Película HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif",MX: [SD] De Pelicula HD
 http://i.fireflix.tv/iptv/tp.php?c=442&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif",MX: AMC HD
+#EXTINF:-1 tvg-id="De Película HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif",MX: [HD] De Pelicula HD
+http://i.fireflix.tv/iptv/tp.php?c=442&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif",MX: [SD] AMC HD
 http://i.fireflix.tv/iptv/tp.php?c=444&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space-hd.gif",MX: Space HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif",MX: [HD] AMC HD
+http://i.fireflix.tv/iptv/tp.php?c=444&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space-hd.gif",MX: [SD] Space HD
 http://i.fireflix.tv/iptv/tp.php?c=445&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-w.gif",MX: Cinemax (W)
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space-hd.gif",MX: [HD] Space HD
+http://i.fireflix.tv/iptv/tp.php?c=445&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-w.gif",MX: [SD] Cinemax (W)
 http://i.fireflix.tv/iptv/tp.php?c=481&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif",MX: TNT
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax-w.gif",MX: [HD] Cinemax (W)
+http://i.fireflix.tv/iptv/tp.php?c=481&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif",MX: [SD] TNT
 http://i.fireflix.tv/iptv/tp.php?c=482&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-edge.gif",MX: Golden Edge
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif",MX: [HD] TNT
+http://i.fireflix.tv/iptv/tp.php?c=482&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-edge.gif",MX: [SD] Golden Edge
 http://i.fireflix.tv/iptv/tp.php?c=484&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc.gif",MX: AMC
+#EXTINF:-1 tvg-id="Golden Edge" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-edge.gif",MX: [HD] Golden Edge
+http://i.fireflix.tv/iptv/tp.php?c=484&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc.gif",MX: [SD] AMC
 http://i.fireflix.tv/iptv/tp.php?c=490&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif",MX: Space
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc.gif",MX: [HD] AMC
+http://i.fireflix.tv/iptv/tp.php?c=490&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif",MX: [HD] Space
+http://i.fireflix.tv/iptv/tp.php?c=491&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space.gif",MX: [SD] Space
 http://i.fireflix.tv/iptv/tp.php?c=491&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",MX: Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",MX: [SD] Studio Universal
 http://i.fireflix.tv/iptv/tp.php?c=492&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",MX: I.Sat
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif",MX: [HD] Studio Universal
+http://i.fireflix.tv/iptv/tp.php?c=492&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",MX: [SD] I.Sat
 http://i.fireflix.tv/iptv/tp.php?c=495&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",MX: TCM
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://x.cdn.entutele.com/media/channels/big/isat.gif",MX: [HD] I.Sat
+http://i.fireflix.tv/iptv/tp.php?c=495&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",MX: [SD] TCM
 http://i.fireflix.tv/iptv/tp.php?c=496&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",MX: ESPN +
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif",MX: [HD] TCM
+http://i.fireflix.tv/iptv/tp.php?c=496&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",MX: [SD] ESPN +
 http://i.fireflix.tv/iptv/tp.php?c=516&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",MX: ESPN 3
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-mas.gif",MX: [HD] ESPN +
+http://i.fireflix.tv/iptv/tp.php?c=516&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",MX: [SD] ESPN 3
 http://i.fireflix.tv/iptv/tp.php?c=520&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports-hd.gif",MX: Fox Sports HD
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif",MX: [HD] ESPN 3
+http://i.fireflix.tv/iptv/tp.php?c=520&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports-hd.gif",MX: [SD] Fox Sports HD
 http://i.fireflix.tv/iptv/tp.php?c=522&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: Fox Sports 2 HD
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports-hd.gif",MX: [HD] Fox Sports HD
+http://i.fireflix.tv/iptv/tp.php?c=522&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: [SD] Fox Sports 2 HD
 http://i.fireflix.tv/iptv/tp.php?c=527&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Formula 1" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: Formula 1
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: [HD] Fox Sports 2 HD
+http://i.fireflix.tv/iptv/tp.php?c=527&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: [SD] Formula 1
 http://i.fireflix.tv/iptv/tp.php?c=511&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn.gif",MX: ESPN
+#EXTINF:-1 tvg-id="Formula 1" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif",MX: [HD] Formula 1
+http://i.fireflix.tv/iptv/tp.php?c=511&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn.gif",MX: [SD] ESPN
 http://i.fireflix.tv/iptv/tp.php?c=558&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif",MX: ESPN 2
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn.gif",MX: [HD] ESPN
+http://i.fireflix.tv/iptv/tp.php?c=558&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif",MX: [SD] ESPN 2
 http://i.fireflix.tv/iptv/tp.php?c=561&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports.gif",MX: Fox Sports
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif",MX: [HD] ESPN 2
+http://i.fireflix.tv/iptv/tp.php?c=561&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports.gif",MX: [SD] Fox Sports
 http://i.fireflix.tv/iptv/tp.php?c=563&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",MX: AyM Sports
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-sports.gif",MX: [HD] Fox Sports
+http://i.fireflix.tv/iptv/tp.php?c=563&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",MX: [SD] AyM Sports
 http://i.fireflix.tv/iptv/tp.php?c=576&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="TVE" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tve.gif",MX: TVE
+#EXTINF:-1 tvg-id="AyM Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif",MX: [HD] AyM Sports
+http://i.fireflix.tv/iptv/tp.php?c=576&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="TVE" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tve.gif",MX: [SD] TVE
 http://i.fireflix.tv/iptv/tp.php?c=651&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",MX: MTV Live HD
+#EXTINF:-1 tvg-id="TVE" tvg-logo="http://x.cdn.entutele.com/media/channels/big/tve.gif",MX: [HD] TVE
+http://i.fireflix.tv/iptv/tp.php?c=651&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",MX: [SD] MTV Live HD
 http://i.fireflix.tv/iptv/tp.php?c=701&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Telehit HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",MX: Telehit HD
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",MX: [HD] MTV Live HD
+http://i.fireflix.tv/iptv/tp.php?c=701&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Telehit HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",MX: [SD] Telehit HD
 http://i.fireflix.tv/iptv/tp.php?c=702&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/vh1-hd.gif",MX: VH1 HD
+#EXTINF:-1 tvg-id="Telehit HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",MX: [HD] Telehit HD
+http://i.fireflix.tv/iptv/tp.php?c=702&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/vh1-hd.gif",MX: [SD] VH1 HD
 http://i.fireflix.tv/iptv/tp.php?c=703&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",MX: Az Clic
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://x.cdn.entutele.com/media/channels/big/vh1-hd.gif",MX: [HD] VH1 HD
+http://i.fireflix.tv/iptv/tp.php?c=703&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",MX: [SD] Az Clic
 http://i.fireflix.tv/iptv/tp.php?c=725&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/big/mtv.gif",MX: MTV
+#EXTINF:-1 tvg-id="Az Clic" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif",MX: [HD] Az Clic
+http://i.fireflix.tv/iptv/tp.php?c=725&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/big/mtv.gif",MX: [SD] MTV
 http://i.fireflix.tv/iptv/tp.php?c=726&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",MX: Ritmoson Latino
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://x.cdn.entutele.com/media/channels/big/mtv.gif",MX: [HD] MTV
+http://i.fireflix.tv/iptv/tp.php?c=726&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",MX: [SD] Ritmoson Latino
 http://i.fireflix.tv/iptv/tp.php?c=731&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
-#EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",MX: Bandamax
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",MX: [HD] Ritmoson Latino
+http://i.fireflix.tv/iptv/tp.php?c=731&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",MX: [SD] Bandamax
 http://i.fireflix.tv/iptv/tp.php?c=732&p=3|User-Agent=ZmlyZWZsaXh0ZWFt
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",MX: [HD] Bandamax
+http://i.fireflix.tv/iptv/tp.php?c=732&p=5|User-Agent=ZmlyZWZsaXh0ZWFt
