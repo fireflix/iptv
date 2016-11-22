@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-logo="iptv.jpg" type="tvcat",Premium TV
+http://iptv.fireflix.tv/premium
+#EXTINF:-1 tvg-logo="tp.png" type="tvcat",Totalplay
+http://iptv.fireflix.tv/tp
