@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="iptv.jpg" type="2",Premium TV
-http://iptv.fireflix.tv/premium
-#EXTINF:-1 tvg-logo="tp.png" type="2",Totalplay
-http://iptv.fireflix.tv/tp
